@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.img1 {
+  /* box-shadow: 4px 4px 4px 4px black; */
+  height: 200px;
+  width: 200px;
+}
+.one {
+  display: flex;
+  /* min-height: 100ch; */
+  min-height: 100vh;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  width: 100vw;
+}
+.two {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  width: 50vw;
+}
